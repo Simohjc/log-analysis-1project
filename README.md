@@ -21,3 +21,12 @@ File Handling in Python
 Basic Threat Detection
 Kali Linux
 
+Future Improvements
+Support for multiple log file formats
+Export suspicious activity to a CSV file
+Add timestamp filtering
+
+Author
+Mohamed El Khair
+GitHub: Simohjc
+LinkedIn: https://www.linkedin.com/in/mohamed-elkhair/
